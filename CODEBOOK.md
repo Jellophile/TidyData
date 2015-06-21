@@ -1,6 +1,7 @@
 #Data Dictionary - Getting and Cleaning Data
 
-###All values after the first two variables (Subject and Activity) are reported 
+###The outcome data frame contains averages for each variable for each Subject for each Activity (i.e. the average tBodyAcc-mean()-X for Subject 2 for the Activity "Walking")
+
 Subject			2
 	Volunteer ID
 				1-30 .Unique identifier for each Volunteer
